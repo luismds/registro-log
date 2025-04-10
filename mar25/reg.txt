@@ -1,0 +1,23 @@
+Verificação de pendências entre marketplaces e plataformas
+
+- emails da kauane
+
+- separacao entre marketplaces
+	- magalu
+	- madeira_madeira
+	- via_varejo
+	- colombo
+	- kabum
+	- shopee
+	- leroy_merlin
+	- mobly
+	- mercado_livre
+
+- verificacao de status entre marketplaces
+	- wevo (sistema)
+	- anymarket (integracao)
+	- marketplace (ponta)
+	- (casos baixa entregas) confirma_facil
+	- (casos especificos) baixas/2 nfs/gko_sync_wevo
+
+
